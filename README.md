@@ -1,6 +1,10 @@
-# vue-api
+# vue-api-ex
 
-> A Vue.js project
+> vuejs SPA CRUD example app
+
+## View Application
+
+Temporarily hosted at: http://vue-api-ex.s3-website-us-east-1.amazonaws.com/
 
 ## Build Setup
 
@@ -15,4 +19,14 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+After running build, deploy `index.html` and `dist/build.js`
+
+## Versions of key dependencies
+```
+vue 2.5.16
+vue cli 2.9.1
+node v8.9.1
+npm 6.1.0
+webpack 3.12.0
+bootstrap 4.1.1
+```
